@@ -1,4 +1,4 @@
-## Hi Welcome To My World
+## Hi Welcome To My World 🌏
 ![alt text](https://sv1.picz.in.th/images/2021/12/01/6xkOhu.jpg)
 
 # _My name is Parita Tonwong_
@@ -9,7 +9,7 @@ Date of Birth : 03 May 2002
 Age : 19
 
 
-### Education
+### Education 📚 
 2014 - 2020 Datdaruni School Chachoengsao English - Mathematics Programe
 
 2020 Thammasat University Pathumthani College of Interdisciplinary Studies - Data Science and Innovation 👩‍💻
