@@ -20,3 +20,6 @@ Age : 19
 ![alt text](https://sv1.picz.in.th/images/2021/12/01/6xw3vv.jpg)
 
 YC : Youth Counselor
+
+
+### _"The only person you should try to be better than is the person you were yesterday."_
